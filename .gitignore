@@ -1,0 +1,9 @@
+# Ignore datasets folder
+datasets/
+
+# Ignore specific files
+diabetes_data.csv
+NHANES.md
+
+# Ignore generated files
+*.pkl
